@@ -1,6 +1,7 @@
 #header1 {
     background: #fff;
     transition: all 0.5s;
+    
     z-index: 997;
     padding: 18px 0;
     top: 3px;
