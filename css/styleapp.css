@@ -40,10 +40,10 @@ h1 {
 }
 
 .container1 {
-    background:url("../assets/img/hero-bg.jpg");
+    background:url("../images/R.png");
     background-attachment: fixed;
     background-position: center;
-    background-size:auto;
+    background: size 80px;;
     width: 40%;
     margin: 50px auto;
     border-radius: 5px;
