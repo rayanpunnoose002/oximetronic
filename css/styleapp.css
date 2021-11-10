@@ -39,18 +39,22 @@ h1 {
     font-family: 'FrancoisOne';
 }
 
-.container {
-    background:url("../images/cardio-heartbeat-medical-background-design-vector.jpg");
+.container1 {
+    background:url("../assets/img/hero-bg.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     width: 40%;
     margin: 50px auto;
     border-radius: 5px;
+    margin-top: 89px;
+    width: 548px;
+    height: 305px;
 }
 .paymentbox {
     background: url("../images/43-435314_emergency-clipart-hospital-cross-emergency-department-symbol.png") no-repeat 400px -5px;
     padding: 20px;
+    margin-top: 38px;
 }
 
 .paymentbox p {
